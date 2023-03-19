@@ -15,9 +15,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React, No, its not.
+          Learn React
         </a>
       </header>
+      <body>
+        <h3>1.change the file and add to git</h3>
+        <h3>2.npm run build</h3>
+        <h3>3.npm run deploy</h3>
+      </body>
     </div>
   );
 }
