@@ -23,6 +23,7 @@ function App() {
         <h3>2.npm run build</h3>
         <h3>3.npm run deploy</h3>
         <h3>4.Finish</h3>
+        <h3>5.Need some time</h3>
       </body>
     </div>
   );
