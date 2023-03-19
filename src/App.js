@@ -22,6 +22,7 @@ function App() {
         <h3>1.change the file and add to git</h3>
         <h3>2.npm run build</h3>
         <h3>3.npm run deploy</h3>
+        <h3>4.Finish</h3>
       </body>
     </div>
   );
