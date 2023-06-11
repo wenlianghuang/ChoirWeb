@@ -1,4 +1,6 @@
 
+# 全程我希望是利用VSCode裡面的GPT4來完成前端網頁
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
