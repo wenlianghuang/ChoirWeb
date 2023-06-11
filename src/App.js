@@ -50,7 +50,7 @@ export default function HomePage() {
           </Toolbar>
         </AppBar>
       </div>
-      <div style={{ ...oceanBackgroundStyle, padding: '16px', textAlign: 'center', marginTop: '96px' }}>
+      <div style={{ ...oceanBackgroundStyle, padding: '16px', textAlign: 'center', marginTop: '0px' }}>
         {/* Add content for yellow section */}
       </div>
       <div style={oceanBackgroundStyle}>

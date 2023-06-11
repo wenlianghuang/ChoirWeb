@@ -1,6 +1,8 @@
 
 # 全程我希望是利用VSCode裡面的GPT4來完成前端網頁
 
+## How to set github wibsite with React
+ref: [github website](https://github.com/gitname/react-gh-pages)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
