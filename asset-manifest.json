@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChoirWeb/static/css/main.073c9b0a.css",
-    "main.js": "/ChoirWeb/static/js/main.b0c2e688.js",
-    "static/js/787.482ff81a.chunk.js": "/ChoirWeb/static/js/787.482ff81a.chunk.js",
+    "main.css": "/ChoirWeb/static/css/main.e6c13ad2.css",
+    "main.js": "/ChoirWeb/static/js/main.cef8dc66.js",
+    "static/js/651.75607a64.chunk.js": "/ChoirWeb/static/js/651.75607a64.chunk.js",
     "index.html": "/ChoirWeb/index.html",
-    "main.073c9b0a.css.map": "/ChoirWeb/static/css/main.073c9b0a.css.map",
-    "main.b0c2e688.js.map": "/ChoirWeb/static/js/main.b0c2e688.js.map",
-    "787.482ff81a.chunk.js.map": "/ChoirWeb/static/js/787.482ff81a.chunk.js.map"
+    "main.e6c13ad2.css.map": "/ChoirWeb/static/css/main.e6c13ad2.css.map",
+    "main.cef8dc66.js.map": "/ChoirWeb/static/js/main.cef8dc66.js.map",
+    "651.75607a64.chunk.js.map": "/ChoirWeb/static/js/651.75607a64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b0c2e688.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cef8dc66.js"
   ]
 }
