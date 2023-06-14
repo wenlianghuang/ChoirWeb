@@ -1,4 +1,4 @@
-import { AppBar, Box, Button, Toolbar, Typography } from '@mui/material';
+import { AppBar, Box, Button, TextField, Toolbar, Typography } from '@mui/material';
 import * as React from 'react';
 
 const oceanBackgroundStyle = {
@@ -63,6 +63,20 @@ export default function Preload() {
             Line
           </Button>
         </Box>
+      </div>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: 'calc(100% - 64px)' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginRight: '32px',position: 'relative',top:'-500px' }}>
+          <TextField label="Name" variant="outlined" sx={{ marginBottom: '16px' }} />
+          <Button variant="contained" color="primary">
+            Submit
+          </Button>
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center',position:'relative',top:'-500px' }}>
+          <TextField label="Email" variant="outlined" sx={{ marginBottom: '16px' }} />
+          <Button variant="contained" color="primary">
+            Submit
+          </Button>
+        </div>
       </div>
     </>
   );
