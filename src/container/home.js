@@ -1,6 +1,8 @@
-import React, { Component }  from 'react';
+import React from 'react';
+import { Route, Routes } from 'react-router-dom';
+import Choirweb from '../components/Choirweb';
+import Preload from '../components/Preload';
 import HomePage from '../components/homepage';
-import { BrowserRouter as Router, Switch, Route,Routes } from 'react-router-dom';
 function Home(){
     return (
       <>
@@ -9,6 +11,8 @@ function Home(){
             <div>
             <Routes>
               <Route exact path="/" element={<HomePage />}/>
+              <Route path="/ChoirWeb" element={<Choirweb/>}/>
+              <Route path="/Preload" element={<Preload/>}/>
             </Routes>  
             </div>
           </div>
