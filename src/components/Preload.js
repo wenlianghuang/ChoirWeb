@@ -1,6 +1,6 @@
 import { AppBar, Box, Button, TextField, Toolbar, Typography } from '@mui/material';
 import * as React from 'react';
-
+import { Link } from 'react-router-dom';
 const oceanBackgroundStyle = {
   backgroundImage: 'url(https://images.unsplash.com/photo-1519681393784-d120267933ba)',
   backgroundSize: 'cover',
@@ -62,6 +62,15 @@ export default function Preload() {
           <Button color="inherit" href="https://line.me/R/ti/p/@1234567890" sx={{ ...buttonStyle }}>
             Line
           </Button>
+          <Button
+            
+            color="inherit"
+            component={Link}
+            to="/"
+            sx={{ ...buttonStyle }}
+        >
+            Preload
+        </Button>
         </Box>
       </div>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: 'calc(100% - 64px)' }}>
